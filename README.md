@@ -1,7 +1,7 @@
 Base58
 ======
 
-Base58 encoding in Elixir using the same alphabet Flickr uses for short URLs.
+[Base58](http://en.wikipedia.org/wiki/Base58) encoding in Elixir using the same alphabet Flickr uses for short URLs.
 
 Usage
 -----
